@@ -6,7 +6,7 @@ A native-based Android rendering framework built around GLSurfaceView, OpenGL ES
 
 ---
 
-**✨ Features**
+# ✨ Features
 
 - ⚡ Native NDK-Based Rendering
 - 🎮 Multi-Engine Rendering Support
@@ -20,7 +20,7 @@ A native-based Android rendering framework built around GLSurfaceView, OpenGL ES
 
 ---
 
-**🧠 Architecture**
+# 🧠 Architecture
 
 Android App
      ↓
@@ -34,7 +34,7 @@ Android NDK
 
 ---
 
-**📱 Compatibility**
+### 📱 Compatibility
 
 Platform| Support
 Android 7.0+| ✅
@@ -48,7 +48,7 @@ Android NDK| ✅
 
 ---
 
-**🎯 Design Goals**
+### 🎯 Design Goals
 
 ⚡ Performance
 Smooth and responsive native rendering with minimal overhead.
@@ -64,7 +64,7 @@ Clean and customizable architecture for different projects and rendering environ
 
 ---
 
-**🛠️ What I Work On**
+# 🛠️ What I Work On
 
 Native Android • ImGui • OpenGL ES • Android NDK • Rendering • Optimization • Engine Research • Custom Tooling
 
@@ -72,7 +72,7 @@ Focused on native Android development, rendering systems, optimization, and cust
 
 ---
 
-**🌐 RrQ Ecosystem**
+# 🌐 RrQ Ecosystem
 
 📢 RrQ Mods
 
@@ -94,7 +94,7 @@ Telegram Group: "CoreEngineDevs" (https://t.me/CoreEngineDevs)
 
 ---
 
-**📄 License**
+# 📄 License
 
 MIT License
 
@@ -102,7 +102,7 @@ See ""LICENSE"" (LICENSE) for the complete license text.
 
 ---
 
-**❤️ Credits**
+# ❤️ Credits
 
 Built with Dear ImGui.
 
@@ -112,6 +112,6 @@ Please retain the original Dear ImGui license and copyright notices for bundled 
 
 <p align="center">⚡ Native Performance • Smooth Rendering • Maximum Flexibility
 
-**RrQ × CoreEngineDevs**
+# RrQ × CoreEngineDevs
 
 </p>
