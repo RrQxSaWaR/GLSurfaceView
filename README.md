@@ -1,4 +1,4 @@
-**⚡ 🚀 GLSurfaceView ImGui — Next-Gen Overlay**
+# ⚡ 🚀 GLSurfaceView ImGui — Next-Gen Overlay
 
 Native Android ImGui Rendering Framework
 
