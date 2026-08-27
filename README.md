@@ -1,128 +1,123 @@
-### ⚡ GLSurfaceView ImGui
+⚡ GLSurfaceView ImGui
 
 Native Android ImGui Rendering Framework
 
-«A native-based Android rendering framework built around GLSurfaceView, OpenGL ES, Dear ImGui, and Android NDK — focused on performance, stability, compatibility, and responsive input.»
-
-<p align="center">Native • Fast • Stable • Flexible
-
-</p>---
-
-#✨ Features
-
-| 
-⚡ Native NDK| Native-powered rendering
-🎮 Multi-Engine| Designed for different rendering environments
-📱 Android 7 → 16+| Broad Android compatibility
-🧩 ARM / ARM64| Native architecture support
-👆 Touch Input| Responsive and reliable input handling
-🚀 Optimized| Smooth rendering with low overhead
-🔮 Future-Ready| Built with modern Android environments in mind
-🛠️ Flexible| Easy to customize and integrate
+A native-based Android rendering framework built around GLSurfaceView, OpenGL ES, Dear ImGui, and Android NDK — focused on performance, stability, compatibility, and responsive input.
 
 ---
 
-#🧠 Architecture
+✨ Features
 
-┌──────────────────────┐
-│     Android App      │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│    GLSurfaceView     │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│      OpenGL ES       │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│      Dear ImGui      │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│     Android NDK      │
-└──────────────────────┘
+- ⚡ Native NDK-Based Rendering
+- 🎮 Multi-Engine Rendering Support
+- 📱 Android 7 → 16+
+- 🧩 ARM / ARM64 Support
+- 👆 Smooth & Reliable Touch/Input
+- 🚀 Optimized Performance & Stability
+- 🔮 Future-Ready Architecture
+- 🛠️ Flexible & Integration-Friendly
+- 💨 Low-Overhead ImGui Rendering
 
 ---
 
-#📱 Compatibility
+🧠 Architecture
 
-- ✅ Android 7 to Android 16+
-- ✅ ARMv7
-- ✅ ARM64
-- ✅ GLSurfaceView
-- ✅ OpenGL ES
-- ✅ Native NDK
-
-«Actual compatibility depends on the Android version, GPU, OpenGL ES implementation, and host environment.»
+Android App
+     ↓
+GLSurfaceView
+     ↓
+OpenGL ES
+     ↓
+Dear ImGui
+     ↓
+Android NDK
 
 ---
 
-#🎯 Design Goals
+📱 Compatibility
 
-Performance
-Keep rendering responsive and lightweight.
+Platform| Support
+Android 7.0+| ✅
+ARMv7| ✅
+ARM64| ✅
+GLSurfaceView| ✅
+OpenGL ES| ✅
+Android NDK| ✅
 
-Stability
-Provide consistent rendering and input behavior.
+«Compatibility may vary depending on Android version, device GPU, OpenGL ES implementation, and host environment.»
 
-Compatibility
-Support a wide range of Android devices and native architectures.
+---
 
-Flexibility
-Keep the framework customizable for different projects and rendering environments.
+🎯 Design Goals
+
+⚡ Performance
+Smooth and responsive native rendering with minimal overhead.
+
+🛡️ Stability
+Reliable rendering and input handling across supported environments.
+
+📱 Compatibility
+Designed for a wide range of Android devices and ARM architectures.
+
+🔧 Flexibility
+Clean and customizable architecture for different projects and rendering environments.
 
 ---
 
 🛠️ What I Work On
 
-Native Android • ImGui • OpenGL ES • NDK • Rendering • Optimization • Engine Research • Custom Tooling
+Native Android • ImGui • OpenGL ES • Android NDK • Rendering • Optimization • Engine Research • Custom Tooling
 
-Building and experimenting with native Android technologies, rendering systems, and development tools.
+Focused on native Android development, rendering systems, optimization, and custom development tools.
 
 ---
 
-#🌐 RrQ Ecosystem
+🌐 RrQ Ecosystem
 
 📢 RrQ Mods
 
-Projects, releases, updates and resources.
+Projects • Releases • Updates • Resources
 
-Telegram: "@RrQ_Mods"
+Telegram: "@RrQ_Mods" (https://t.me/RrQ_Mods)
 
 👤 RrQ Owner
 
-Project owner and developer.
+Project Owner & Developer
 
-Telegram: "@RrQ_Owner"
+Telegram: "@RrQ_Owner" (https://t.me/RrQ_Owner)
 
-#🧑‍💻 CoreEngineDevs
+🧑‍💻 CoreEngineDevs
 
-Development community focused on native Android, rendering and engine technologies.
+Development community focused on Native Android, Rendering & Engine Technologies.
 
-Telegram: "@CoreEngineDevs"
+Telegram Group: "CoreEngineDevs" (https://t.me/CoreEngineDevs)
 
 ---
 
-#📄 License
+📸 Preview
 
-Released under the MIT License.
+Screenshots and demonstrations coming soon.
+
+---
+
+📄 License
+
+MIT License
 
 See ""LICENSE"" (LICENSE) for the complete license text.
 
 ---
 
-#❤️ Credits
+❤️ Credits
 
 Built with Dear ImGui.
 
-Please retain the original Dear ImGui license and copyright notices for any bundled third-party code.
+Please retain the original Dear ImGui license and copyright notices for bundled third-party code.
 
 ---
 
 <p align="center">⚡ Native Performance • Smooth Rendering • Maximum Flexibility
 
-#RrQ × CoreEngineDevs
+RrQ × CoreEngineDevs
 
 </p>
