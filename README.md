@@ -1,4 +1,4 @@
-⚡ GLSurfaceView ImGui
+#⚡ GLSurfaceView ImGui
 
 Native Android ImGui Rendering Framework
 
@@ -8,7 +8,7 @@ Native Android ImGui Rendering Framework
 
 </p>---
 
-✨ Features
+#✨ Features
 
 | 
 ⚡ Native NDK| Native-powered rendering
@@ -22,7 +22,7 @@ Native Android ImGui Rendering Framework
 
 ---
 
-🧠 Architecture
+#🧠 Architecture
 
 ┌──────────────────────┐
 │     Android App      │
@@ -46,9 +46,9 @@ Native Android ImGui Rendering Framework
 
 ---
 
-📱 Compatibility
+#📱 Compatibility
 
-- ✅ Android 7.0+
+- ✅ Android 7 to Android 16+
 - ✅ ARMv7
 - ✅ ARM64
 - ✅ GLSurfaceView
@@ -59,7 +59,7 @@ Native Android ImGui Rendering Framework
 
 ---
 
-🎯 Design Goals
+#🎯 Design Goals
 
 Performance
 Keep rendering responsive and lightweight.
@@ -83,7 +83,7 @@ Building and experimenting with native Android technologies, rendering systems, 
 
 ---
 
-🌐 RrQ Ecosystem
+#🌐 RrQ Ecosystem
 
 📢 RrQ Mods
 
@@ -97,7 +97,7 @@ Project owner and developer.
 
 Telegram: "@RrQ_Owner"
 
-🧑‍💻 CoreEngineDevs
+#🧑‍💻 CoreEngineDevs
 
 Development community focused on native Android, rendering and engine technologies.
 
@@ -105,15 +105,7 @@ Telegram: "@CoreEngineDevs"
 
 ---
 
-📸 Preview
-
-Add screenshots or a GIF of the framework running here.
-
-Coming soon...
-
----
-
-📄 License
+#📄 License
 
 Released under the MIT License.
 
@@ -121,7 +113,7 @@ See ""LICENSE"" (LICENSE) for the complete license text.
 
 ---
 
-❤️ Credits
+#❤️ Credits
 
 Built with Dear ImGui.
 
@@ -131,6 +123,6 @@ Please retain the original Dear ImGui license and copyright notices for any bund
 
 <p align="center">⚡ Native Performance • Smooth Rendering • Maximum Flexibility
 
-RrQ × CoreEngineDevs
+#RrQ × CoreEngineDevs
 
 </p>
