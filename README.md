@@ -72,7 +72,7 @@ Focused on native Android development, rendering systems, optimization, and cust
 
 ---
 
-# Load 
+# Inject Code
 
 ***const-string v0, "ImGui"***
 
