@@ -72,6 +72,14 @@ Focused on native Android development, rendering systems, optimization, and cust
 
 ---
 
+# Load 
+
+***const-string v0, "ImGui"***
+
+***invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V***
+
+---
+
 # 🌐 RrQ Ecosystem
 
 📢 RrQ Mods
