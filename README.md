@@ -1,4 +1,4 @@
-⚡ GLSurfaceView ImGui
+##⚡ GLSurfaceView ImGui
 
 Native Android ImGui Rendering Framework
 
@@ -6,7 +6,7 @@ GLSurfaceView ImGui is a native Android rendering framework built around Android
 
 The project provides a native-oriented rendering architecture for integrating Dear ImGui and OpenGL ES into Android applications while keeping the rendering layer lightweight, responsive, and integration-friendly.
 
-✨ Features
+##✨ Features
 
 - ⚡ Native C/C++ rendering with Android NDK
 - 🎨 Dear ImGui integration
@@ -22,7 +22,7 @@ The project provides a native-oriented rendering architecture for integrating De
 
 ---
 
-🧠 Architecture
+##🧠 Architecture
 
 Android Application
         │
@@ -45,7 +45,7 @@ The rendering pipeline is designed around Android's "GLSurfaceView" while moving
 
 ---
 
-🔥 Why GLSurfaceView ImGui?
+##🔥 Why GLSurfaceView ImGui?
 
 Android's "GLSurfaceView" provides a convenient OpenGL rendering surface, while Dear ImGui provides an immediate-mode graphical user interface.
 
@@ -60,7 +60,7 @@ This project combines both with the Android NDK to provide a native rendering la
 
 ---
 
-📱 Compatibility
+##📱 Compatibility
 
 Platform| Support
 Android 7.0+| ✅
@@ -75,7 +75,7 @@ Dear ImGui| ✅
 
 ---
 
-🎯 Design Goals
+##🎯 Design Goals
 
 ⚡ Performance
 
@@ -95,7 +95,7 @@ The rendering architecture is designed to be customized and integrated into diff
 
 ---
 
-🛠️ Technology Stack
+##🛠️ Technology Stack
 
 - Android
 - GLSurfaceView
@@ -108,7 +108,7 @@ The rendering architecture is designed to be customized and integrated into diff
 
 ---
 
-🚀 Integration
+##🚀 Integration
 
 The native rendering library can be loaded from an Android application and initialized through the project's native interface.
 
@@ -122,7 +122,7 @@ The exact integration process depends on the host application's architecture and
 ---
 
 
-🔬 Development Focus
+##🔬 Development Focus
 
 This project focuses on:
 
@@ -132,7 +132,7 @@ The goal is to provide a clean foundation for experimentation and development in
 
 ---
 
-🌐 RrQ Ecosystem
+##🌐 RrQ Ecosystem
 
 RrQ Mods
 
@@ -154,6 +154,6 @@ Telegram: "CoreEngineDevs" (https://t.me/CoreEngineDevs)
 
 ---
 
-📄 License
+##📄 License
 
 MIT License
